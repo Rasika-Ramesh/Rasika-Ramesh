@@ -4,7 +4,7 @@
 - 🤝 I’m looking to collaborate on: Frontend projects.
 - 📫 How to reach me: [Email](mailto:rasikaramesh1234@gmail.com)
 - 😄 Pronouns: She/Her
--⚡ Fun fact: I love creating visually appealing websites and experimenting with new design trends!
+-⚡Fun fact: I love creating visually appealing websites and experimenting with new design trends!
 
 <!---
 Rasika-Ramesh/Rasika-Ramesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
